@@ -2,7 +2,7 @@
 
 Classificação de uma base de dados intitulada german_credit_risk retirada do site Kaggle (Veja em 'https://www.kaggle.com/uciml/german-credit') Nessa classificação
 utilizei a IDE Spyder para analisar e classificar o conjunto de dados com o algoritmo Naïve Bayes. Para análise e classificação do banco de dados foram utilizadas as 
-bibliotecas Pandas, Numpy e Scikit learn. Primeiramente, importei as bibliotecas de Python e depois importei o conjunto de dados. Em seguida dividi a matriz em duas partes
+bibliotecas Pandas e Scikit learn. Primeiramente, importei as bibliotecas de Python e depois importei o conjunto de dados. Em seguida dividi a matriz em duas partes
 Variável previsores e a variável classe. Abaixo deixei todo o procedimento para classificação do conjunto de dados.
 
 
