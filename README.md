@@ -1,4 +1,5 @@
 # Classificacao_Risco_Credito
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/LombaAnderson/Classificacao_Risco_Credito/blob/main/LICENSE)
 
 Classificação de uma base de dados intitulada german_credit_risk retirada do site Kaggle (Veja em 'https://www.kaggle.com/uciml/german-credit') Nessa classificação
 utilizei a IDE Spyder para analisar e classificar o conjunto de dados com o algoritmo Naïve Bayes. Para análise e classificação do banco de dados foram utilizadas as 
